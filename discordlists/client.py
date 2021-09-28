@@ -24,7 +24,7 @@
 import asyncio
 from typing import Tuple, Union
 
-from discord import User
+from nextcord import User
 
 from .baseclient import BaseClient
 from .exceptions import NotFound

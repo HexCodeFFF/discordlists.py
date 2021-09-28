@@ -21,8 +21,8 @@
  *   <https://github.com/MattIPv4/discordlists.py/blob/master/LICENSE>
 """
 
-__title__ = 'discordlists.py'
-__author__ = 'MattIPv4'
+__title__ = 'discordlists.py nextcord'
+__author__ = 'MattIPv4 & HexCodeFFF'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2019, MattIPv4'
 __version__ = '1.1.1'

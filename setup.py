@@ -41,17 +41,17 @@ with open("README.md", "r") as f:
 setup(
     name=__title__,
     author=__author__,
-    url="https://github.com/MattIPv4/discordlists.py/",
+    url="https://github.com/HexCodeFFF/discordlists.py/",
     version=__version__,
     packages=['discordlists'],
     python_requires=">= 3.5",
     include_package_data=True,
     install_requires=requirements,
-    description="A simple API wrapper for botblock.org providing server count posting to all bot lists and fetching bot"
-                "information from all.",
+    description="simple fork of discordlists.py which uses nextcord",
     long_description=readme,
     long_description_content_type="text/markdown",
-    keywords="api wrapper discord bot bots stats statistics botblock server guild count list lists get post botlist",
+    keywords="api wrapper discord bot bots stats statistics botblock server guild count list lists get post botlist "
+             "nextcord",
     classifiers=(
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
@@ -60,9 +60,7 @@ setup(
         "Operating System :: OS Independent",
     ),
     project_urls={
-        'Funding': 'http://patreon.mattcowley.co.uk/',
-        'Support': 'http://discord.mattcowley.co.uk/',
-        'Source': 'https://github.com/MattIPv4/discordlists.py/',
+        'Source': 'https://github.com/HexCodeFFF/discordlists.py/',
     },
 )
 

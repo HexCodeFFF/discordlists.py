@@ -1,4 +1,4 @@
-from discord.ext import commands
+from nextcord.ext import commands
 
 with open('config.txt') as f:
     config = [g.strip('\r\n ') for g in f.readlines()]
