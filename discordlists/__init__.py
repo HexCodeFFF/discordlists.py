@@ -25,7 +25,7 @@ __title__ = 'discordlists.py'
 __author__ = 'MattIPv4 & HexCodeFFF'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2019, MattIPv4'
-__version__ = '2.0'
+__version__ = '1.1.1'
 
 name = "discordlists"
 
