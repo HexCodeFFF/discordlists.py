@@ -23,7 +23,9 @@
 
 from setuptools import setup
 
-from discordlists import __title__, __author__, __version__
+__title__ = 'discordlists.py'
+__author__ = 'MattIPv4 & HexCodeFFF'
+__version__ = '2.0'
 
 if not __title__:
     raise RuntimeError('title is not set')
